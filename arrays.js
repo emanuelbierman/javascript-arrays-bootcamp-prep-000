@@ -52,5 +52,5 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function accessElementInArray(array, index) {
-  return array[number]
+  return array[index]
 }
