@@ -1,3 +1,4 @@
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 var ingredient1 = "bread"
 var ingredient2 = "mild cheese"
@@ -51,3 +52,8 @@ function destructivelyAddElementToEndOfArray(array, element) {
   array.push(element)
   return array
 }
+
+function accessElementInArray(array, index) {
+  return array[]
+}
+
